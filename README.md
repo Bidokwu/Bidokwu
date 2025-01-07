@@ -8,7 +8,7 @@ Machine Learning Engineer
 *   ✉️  You can contact me at [alfredbidokwu@yahoo.com](mailto:alfredbidokwu@yahoo.com)
 *   🧠  I'm learning about the application of machine learning to Quantitative Finance and I have some projects arount it on my github repo
 *   🤝  I'm open to collaborating on Interesting projects around deep learning, computer vision and quant finance
-*   ⚡  I have a masters degree in computer science and I'm very passionate about community, I teach machine learning and play the drums for my church here in England
+*   ⚡  I have a Masters Degree in Computer Science and I have experience working as a Machine Learning Engineer here in Cambridge. Outside of my career, i'm very passionate about community, I teach machine learning and play the drums for my church here in Cambridge. 
 
  ### Skills 
 <p align="left">
